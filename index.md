@@ -2,4 +2,6 @@
 
 ### [index](index/)
 
+### [events](events/)
+
 ### [about](about.html)
