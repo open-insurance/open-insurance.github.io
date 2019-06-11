@@ -1,9 +1,9 @@
 ## Welcome to Open-Insurance
 
-### [index](index/index.md)
+### [index](index/index.html)
 an index of actual and direct activities
 
-### [meta](index/meta.md)
+### [meta](index/meta.html)
 an index of meta and indirect activities
 
 ### [events](events/)
