@@ -1,6 +1,6 @@
 ## Welcome to open-insurance
 
-### [index](index/index.html)
+### [index](index/)
 an index of actual and direct (driven by actual companies) activities
 
 ### [meta](index/meta.html)
