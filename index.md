@@ -1,10 +1,10 @@
 ## Welcome to open-insurance
 
 ### [index](index/index.html)
-an index of actual and direct activities
+an index of actual and direct (driven by actual companies) activities
 
 ### [meta](index/meta.html)
-an index of meta and indirect activities
+an index of meta and indirect (associations, initiatives, ... ) activities
 
 ### [events](events/)
 past and upcoming events
