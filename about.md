@@ -4,7 +4,7 @@ title: about
 description: about open-insurance.org
 ---
 
-## About
+## about
 
 
 [back](./)
