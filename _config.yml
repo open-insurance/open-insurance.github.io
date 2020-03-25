@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 
 title: open-insurance.org
-description: Vendor neutral umbrella for all activities of open-source collaboration within the insurance scene
+description: Vendor neutral umbrella for all activities of open(-source) collaboration within the insurance scene
 
 github:
   is_project_page: true
